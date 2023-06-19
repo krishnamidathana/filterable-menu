@@ -65,7 +65,7 @@ desc:`Lorem ipsum dolor sit amet consectetur adipisicing elit.`
 {
     catogery:'dinner',
     img:'8.jpg',
-    title:'Chicken pap',
+    title:'Cipap',
     price:'$27',
     desc:`Lorem ipsum dolor sit amet consectetur adipisicing elit.
     Minima, cum maiores inventore impedit 
